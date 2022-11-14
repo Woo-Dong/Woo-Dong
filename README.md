@@ -14,8 +14,8 @@
 ---
 
 <img src="https://img.shields.io/badge/B--IRT-success"/> <img src="https://img.shields.io/badge/YOLOv4-success"/> 
-<img src="https://img.shields.io/badge/XAI-success"/> <img src="https://img.shields.io/badge/FacialRecognition-success"/> 
-<img src="https://img.shields.io/badge/FaceExpression-success"/> <img src="https://img.shields.io/badge/FastText-success"/>
+<img src="https://img.shields.io/badge/XAI-success"/> <img src="https://img.shields.io/badge/FaceRecognition-success"/> 
+<img src="https://img.shields.io/badge/FacialExpression-success"/> <img src="https://img.shields.io/badge/FastText-success"/>
 ---
 
 <img src="https://img.shields.io/badge/Kubeflow-darkblue"/> <img src="https://img.shields.io/badge/Kubernetes-darkblue?style=flat-square&logo=Kubernetes&logoColor=white"/>
